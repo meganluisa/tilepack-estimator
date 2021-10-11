@@ -5,8 +5,6 @@
   "main": "region-script.js",
   "scripts": {
     "start": "node index.js",
-    "say-hello": "echo 'Hello World'",
-    "js-add": "node add.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

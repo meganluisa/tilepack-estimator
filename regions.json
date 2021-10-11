@@ -1,0 +1,3565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Acadia National Park",
+        "Pack Slug": "acadia-national-park-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.43452453613281,
+              44.220599591069444
+            ],
+            [
+              -68.16844940185547,
+              44.220599591069444
+            ],
+            [
+              -68.16844940185547,
+              44.42250171703638
+            ],
+            [
+              -68.43452453613281,
+              44.42250171703638
+            ],
+            [
+              -68.43452453613281,
+              44.220599591069444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Arches National Park",
+        "Pack Slug": "arches-national-park-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -109.71633911132812,
+              38.601846852838094
+            ],
+            [
+              -109.47463989257812,
+              38.601846852838094
+            ],
+            [
+              -109.47463989257812,
+              38.84986866947369
+            ],
+            [
+              -109.71633911132812,
+              38.84986866947369
+            ],
+            [
+              -109.71633911132812,
+              38.601846852838094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Atlanta, Georgia",
+        "Pack Slug": "atlanta-georgia-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.41877365112303,
+              33.73104977349977
+            ],
+            [
+              -84.34916496276855,
+              33.73104977349977
+            ],
+            [
+              -84.34916496276855,
+              33.79805070032123
+            ],
+            [
+              -84.41877365112303,
+              33.79805070032123
+            ],
+            [
+              -84.41877365112303,
+              33.73104977349977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Austin, Texas",
+        "Pack Slug": "austin-texas-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.80424118041992,
+              30.21976686631304
+            ],
+            [
+              -97.67017364501953,
+              30.21976686631304
+            ],
+            [
+              -97.67017364501953,
+              30.334953881988564
+            ],
+            [
+              -97.80424118041992,
+              30.334953881988564
+            ],
+            [
+              -97.80424118041992,
+              30.21976686631304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Badlands National Park",
+        "Pack Slug": "badlands-national-park-usa",
+        "Pack Size": "50 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.91580200195311,
+              43.46787094300573
+            ],
+            [
+              -101.88583374023436,
+              43.46787094300573
+            ],
+            [
+              -101.88583374023436,
+              43.83353616014345
+            ],
+            [
+              -102.91580200195311,
+              43.83353616014345
+            ],
+            [
+              -102.91580200195311,
+              43.46787094300573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Boston, Massachusetts",
+        "Pack Slug": "boston-massachusetts-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.1309814453125,
+              42.34471596668095
+            ],
+            [
+              -71.04789733886719,
+              42.34471596668095
+            ],
+            [
+              -71.04789733886719,
+              42.39005773382359
+            ],
+            [
+              -71.1309814453125,
+              42.39005773382359
+            ],
+            [
+              -71.1309814453125,
+              42.34471596668095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Bryce Canyon National Park",
+        "Pack Slug": "bryce-canyon-national-park-usa",
+        "Pack Size": "20 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.27581024169922,
+              37.4426999532675
+            ],
+            [
+              -112.0832061767578,
+              37.4426999532675
+            ],
+            [
+              -112.0832061767578,
+              37.70012079430599
+            ],
+            [
+              -112.27581024169922,
+              37.70012079430599
+            ],
+            [
+              -112.27581024169922,
+              37.4426999532675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Canyonlands National Park",
+        "Pack Slug": "canyonlands-national-park-usa",
+        "Pack Size": "70 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.11871337890624,
+              37.96152331396614
+            ],
+            [
+              -109.66690063476561,
+              37.96152331396614
+            ],
+            [
+              -109.66690063476561,
+              38.494443887725055
+            ],
+            [
+              -110.11871337890624,
+              38.494443887725055
+            ],
+            [
+              -110.11871337890624,
+              37.96152331396614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Chicago, Illinois",
+        "Pack Slug": "chicago-illinois-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.66720771789551,
+              41.86559796079286
+            ],
+            [
+              -87.5965690612793,
+              41.86559796079286
+            ],
+            [
+              -87.5965690612793,
+              41.904512889120184
+            ],
+            [
+              -87.66720771789551,
+              41.904512889120184
+            ],
+            [
+              -87.66720771789551,
+              41.86559796079286
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Cincinnati, Ohio",
+        "Pack Slug": "cincinnati-ohio-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.55146789550781,
+              39.072244930479926
+            ],
+            [
+              -84.47147369384766,
+              39.072244930479926
+            ],
+            [
+              -84.47147369384766,
+              39.1425762051489
+            ],
+            [
+              -84.55146789550781,
+              39.1425762051489
+            ],
+            [
+              -84.55146789550781,
+              39.072244930479926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Crater Lake National Park",
+        "Pack Slug": "crater-lake-national-park-usa",
+        "Pack Size": "20 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.25860595703125,
+              42.791369723650135
+            ],
+            [
+              -121.904296875,
+              42.791369723650135
+            ],
+            [
+              -121.904296875,
+              43.08493742707592
+            ],
+            [
+              -122.25860595703125,
+              43.08493742707592
+            ],
+            [
+              -122.25860595703125,
+              42.791369723650135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Denver, Colorado",
+        "Pack Slug": "denver-colorado-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.03753662109375,
+              39.715109947757554
+            ],
+            [
+              -104.90158081054688,
+              39.715109947757554
+            ],
+            [
+              -104.90158081054688,
+              39.7789912112384
+            ],
+            [
+              -105.03753662109375,
+              39.7789912112384
+            ],
+            [
+              -105.03753662109375,
+              39.715109947757554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Glacier National Park",
+        "Pack Slug": "glacier-national-park-usa",
+        "Pack Size": "190 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.47753906249999,
+              48.22650242109718
+            ],
+            [
+              -113.21273803710938,
+              48.22650242109718
+            ],
+            [
+              -113.21273803710938,
+              48.9991410647952
+            ],
+            [
+              -114.47753906249999,
+              48.9991410647952
+            ],
+            [
+              -114.47753906249999,
+              48.22650242109718
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Grand Canyon National Park",
+        "Pack Slug": "grand-canyon-national-park-usa",
+        "Pack Size": "175 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.1646728515625,
+              35.97022651867593
+            ],
+            [
+              -111.75018310546875,
+              35.97022651867593
+            ],
+            [
+              -111.75018310546875,
+              36.49970139181239
+            ],
+            [
+              -113.1646728515625,
+              36.49970139181239
+            ],
+            [
+              -113.1646728515625,
+              35.97022651867593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Grand Teton National Park",
+        "Pack Slug": "grand-teton-national-park-usa",
+        "Pack Size": "55 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.94268798828125,
+              43.574421623084234
+            ],
+            [
+              -110.41534423828124,
+              43.574421623084234
+            ],
+            [
+              -110.41534423828124,
+              44.08561218844469
+            ],
+            [
+              -110.94268798828125,
+              44.08561218844469
+            ],
+            [
+              -110.94268798828125,
+              43.574421623084234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Great Smoky Mountains National Park",
+        "Pack Slug": "great-smoky-mountains-national-park-usa",
+        "Pack Size": "120 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.00146484374999,
+              35.42486791930556
+            ],
+            [
+              -83.04702758789062,
+              35.42486791930556
+            ],
+            [
+              -83.04702758789062,
+              35.787740890986576
+            ],
+            [
+              -84.00146484374999,
+              35.787740890986576
+            ],
+            [
+              -84.00146484374999,
+              35.42486791930556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Hawaii Volcanoes National Park",
+        "Pack Slug": "hawaii-volcanoes-national-park-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -155.42633056640625,
+              19.184083660401953
+            ],
+            [
+              -155.05142211914062,
+              19.184083660401953
+            ],
+            [
+              -155.05142211914062,
+              19.436809370143173
+            ],
+            [
+              -155.42633056640625,
+              19.436809370143173
+            ],
+            [
+              -155.42633056640625,
+              19.184083660401953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Honolulu, Hawaii",
+        "Pack Slug": "honolulu-hawaii-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -157.86795616149902,
+              21.27233901806844
+            ],
+            [
+              -157.8145694732666,
+              21.27233901806844
+            ],
+            [
+              -157.8145694732666,
+              21.31544339825882
+            ],
+            [
+              -157.86795616149902,
+              21.31544339825882
+            ],
+            [
+              -157.86795616149902,
+              21.27233901806844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Jackson, Wyoming",
+        "Pack Slug": "jackson-wyoming-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.81359863281249,
+              43.45827713637717
+            ],
+            [
+              -110.74227333068848,
+              43.45827713637717
+            ],
+            [
+              -110.74227333068848,
+              43.486493531617924
+            ],
+            [
+              -110.81359863281249,
+              43.486493531617924
+            ],
+            [
+              -110.81359863281249,
+              43.45827713637717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Joshua Tree National Park",
+        "Pack Slug": "joshua-tree-naional-park-usa",
+        "Pack Size": "65 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.334228515625,
+              33.7722982886684
+            ],
+            [
+              -115.26580810546874,
+              33.7722982886684
+            ],
+            [
+              -115.26580810546874,
+              34.10725639663118
+            ],
+            [
+              -116.334228515625,
+              34.10725639663118
+            ],
+            [
+              -116.334228515625,
+              33.7722982886684
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Key West, Florida",
+        "Pack Slug": "key-west-florida-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.81690216064453,
+              24.54337560526346
+            ],
+            [
+              -81.74806594848633,
+              24.54337560526346
+            ],
+            [
+              -81.74806594848633,
+              24.574133633025067
+            ],
+            [
+              -81.81690216064453,
+              24.574133633025067
+            ],
+            [
+              -81.81690216064453,
+              24.54337560526346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Lake Tahoe",
+        "Pack Slug": "lake-tahoe-usa",
+        "Pack Size": "25 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -120.20896911621092,
+              38.91133881927712
+            ],
+            [
+              -119.85877990722656,
+              38.91133881927712
+            ],
+            [
+              -119.85877990722656,
+              39.279041894366785
+            ],
+            [
+              -120.20896911621092,
+              39.279041894366785
+            ],
+            [
+              -120.20896911621092,
+              38.91133881927712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Las Vegas, Nevada",
+        "Pack Slug": "las-vegas-nevada-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.25997161865233,
+              36.04257553740599
+            ],
+            [
+              -115.0872802734375,
+              36.04257553740599
+            ],
+            [
+              -115.0872802734375,
+              36.18153220053745
+            ],
+            [
+              -115.25997161865233,
+              36.18153220053745
+            ],
+            [
+              -115.25997161865233,
+              36.04257553740599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Los Angeles, California",
+        "Pack Slug": "los-angeles-california-usa",
+        "Pack Size": "50 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.50677490234375,
+              33.988918483762156
+            ],
+            [
+              -118.09822082519531,
+              33.988918483762156
+            ],
+            [
+              -118.09822082519531,
+              34.21748028285746
+            ],
+            [
+              -118.50677490234375,
+              34.21748028285746
+            ],
+            [
+              -118.50677490234375,
+              33.988918483762156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Miami, Florida",
+        "Pack Slug": "miami-florida-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.26336669921875,
+              25.76449392629055
+            ],
+            [
+              -80.12123107910156,
+              25.76449392629055
+            ],
+            [
+              -80.12123107910156,
+              25.81689047385503
+            ],
+            [
+              -80.26336669921875,
+              25.81689047385503
+            ],
+            [
+              -80.26336669921875,
+              25.76449392629055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Mount Ranier National Park",
+        "Pack Slug": "mount-ranier-national-park-usa",
+        "Pack Size": "55 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.91802978515625,
+              46.72009319188254
+            ],
+            [
+              -121.44699096679688,
+              46.72009319188254
+            ],
+            [
+              -121.44699096679688,
+              47.00132908676542
+            ],
+            [
+              -121.91802978515625,
+              47.00132908676542
+            ],
+            [
+              -121.91802978515625,
+              46.72009319188254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Nashville, Tennessee",
+        "Pack Slug": "nashville-tennessee-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -86.82134628295898,
+              36.14286537528351
+            ],
+            [
+              -86.76847457885742,
+              36.14286537528351
+            ],
+            [
+              -86.76847457885742,
+              36.17522762203886
+            ],
+            [
+              -86.82134628295898,
+              36.17522762203886
+            ],
+            [
+              -86.82134628295898,
+              36.14286537528351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "New Orleans, Louisiana",
+        "Pack Slug": "new-orleans-louisiana-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.16290664672852,
+              29.911495738488924
+            ],
+            [
+              -90.0281524658203,
+              29.911495738488924
+            ],
+            [
+              -90.0281524658203,
+              30.036108261098676
+            ],
+            [
+              -90.16290664672852,
+              30.036108261098676
+            ],
+            [
+              -90.16290664672852,
+              29.911495738488924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "New York City, New York",
+        "Pack Slug": "new-york-city-new-york-usa",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.04647827148438,
+              40.54459137461185
+            ],
+            [
+              -73.73336791992188,
+              40.54459137461185
+            ],
+            [
+              -73.73336791992188,
+              40.82783908257347
+            ],
+            [
+              -74.04647827148438,
+              40.82783908257347
+            ],
+            [
+              -74.04647827148438,
+              40.54459137461185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Olympic National Park",
+        "Pack Slug": "olympic-national-park-usa",
+        "Pack Size": "155 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.97796630859375,
+              47.49864785970502
+            ],
+            [
+              -123.13064575195312,
+              47.49864785970502
+            ],
+            [
+              -123.13064575195312,
+              48.07349114169717
+            ],
+            [
+              -123.97796630859375,
+              48.07349114169717
+            ],
+            [
+              -123.97796630859375,
+              47.49864785970502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Philadelphia, Pennsylvania",
+        "Pack Slug": "philadelphia-pennsylvania-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.19403457641602,
+              39.92382389430036
+            ],
+            [
+              -75.13541221618652,
+              39.92382389430036
+            ],
+            [
+              -75.13541221618652,
+              39.96251712170396
+            ],
+            [
+              -75.19403457641602,
+              39.96251712170396
+            ],
+            [
+              -75.19403457641602,
+              39.92382389430036
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Portland, Oregon",
+        "Pack Slug": "portland-oregon-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.72011756896971,
+              45.51164009357107
+            ],
+            [
+              -122.6447582244873,
+              45.51164009357107
+            ],
+            [
+              -122.6447582244873,
+              45.53521281284293
+            ],
+            [
+              -122.72011756896971,
+              45.53521281284293
+            ],
+            [
+              -122.72011756896971,
+              45.51164009357107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Redwood National Park",
+        "Pack Slug": "redwood-national-park-usa",
+        "Pack Size": "25 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.09881591796875,
+              41.07831595419909
+            ],
+            [
+              -123.84544372558595,
+              41.07831595419909
+            ],
+            [
+              -123.84544372558595,
+              41.401020532631264
+            ],
+            [
+              -124.09881591796875,
+              41.401020532631264
+            ],
+            [
+              -124.09881591796875,
+              41.07831595419909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "San Diego, California",
+        "Pack Slug": "san-diego-california-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.17948913574219,
+              32.70281110073315
+            ],
+            [
+              -117.12524414062501,
+              32.70281110073315
+            ],
+            [
+              -117.12524414062501,
+              32.74252610347401
+            ],
+            [
+              -117.17948913574219,
+              32.74252610347401
+            ],
+            [
+              -117.17948913574219,
+              32.70281110073315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "San Francisco, California",
+        "Pack Slug": "san-francisco-california-usa",
+        "Pack Size": "15 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.51747131347655,
+              37.748050559413784
+            ],
+            [
+              -122.35851287841797,
+              37.748050559413784
+            ],
+            [
+              -122.35851287841797,
+              37.84408812566162
+            ],
+            [
+              -122.51747131347655,
+              37.84408812566162
+            ],
+            [
+              -122.51747131347655,
+              37.748050559413784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Seattle, Washington",
+        "Pack Slug": "seattle-washington-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.35671043395996,
+              47.591635903048115
+            ],
+            [
+              -122.30177879333495,
+              47.591635903048115
+            ],
+            [
+              -122.30177879333495,
+              47.62623973948286
+            ],
+            [
+              -122.35671043395996,
+              47.62623973948286
+            ],
+            [
+              -122.35671043395996,
+              47.591635903048115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Sequoia National Park",
+        "Pack Slug": "sequoia-national-park-usa",
+        "Pack Size": "70 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.89404296875,
+              36.35273908735876
+            ],
+            [
+              -118.2513427734375,
+              36.35273908735876
+            ],
+            [
+              -118.2513427734375,
+              36.71687068791304
+            ],
+            [
+              -118.89404296875,
+              36.71687068791304
+            ],
+            [
+              -118.89404296875,
+              36.35273908735876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Shenandoah National Park",
+        "Pack Slug": "shenandoah-national-park-usa",
+        "Pack Size": "25 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.47465515136719,
+              38.50626606567193
+            ],
+            [
+              -78.14300537109375,
+              38.50626606567193
+            ],
+            [
+              -78.14300537109375,
+              38.82740544644435
+            ],
+            [
+              -78.47465515136719,
+              38.82740544644435
+            ],
+            [
+              -78.47465515136719,
+              38.50626606567193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Washington, D.C.",
+        "Pack Slug": "washington-dc-usa",
+        "Pack Size": "10 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.08205223083496,
+              38.86617680355024
+            ],
+            [
+              -76.9947624206543,
+              38.86617680355024
+            ],
+            [
+              -76.9947624206543,
+              38.905795325194326
+            ],
+            [
+              -77.08205223083496,
+              38.905795325194326
+            ],
+            [
+              -77.08205223083496,
+              38.86617680355024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Yellowstone National Park",
+        "Pack Slug": "yellowstone-national-park-usa",
+        "Pack Size": "140 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.0992431640625,
+              44.132942183139654
+            ],
+            [
+              -109.9951171875,
+              44.132942183139654
+            ],
+            [
+              -109.9951171875,
+              45.05412098425883
+            ],
+            [
+              -111.0992431640625,
+              45.05412098425883
+            ],
+            [
+              -111.0992431640625,
+              44.132942183139654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Yosemite National Park",
+        "Pack Slug": "yosemite-national-park-usa",
+        "Pack Size": "115 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.8883056640625,
+              37.487935401689846
+            ],
+            [
+              -119.21401977539061,
+              37.487935401689846
+            ],
+            [
+              -119.21401977539061,
+              38.19610083395667
+            ],
+            [
+              -119.8883056640625,
+              38.19610083395667
+            ],
+            [
+              -119.8883056640625,
+              37.487935401689846
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Pack Name": "Zion National Park",
+        "Pack Slug": "zion-national-park-usa",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Outdoors",
+        "Zoom Levels": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.21891784667969,
+              37.14006665498991
+            ],
+            [
+              -112.85911560058594,
+              37.14006665498991
+            ],
+            [
+              -112.85911560058594,
+              37.507547084964116
+            ],
+            [
+              -113.21891784667969,
+              37.507547084964116
+            ],
+            [
+              -113.21891784667969,
+              37.14006665498991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.0294189453125,
+              -38.97222194853654
+            ],
+            [
+              178.604736328125,
+              -38.97222194853654
+            ],
+            [
+              178.604736328125,
+              -34.10270799317486
+            ],
+            [
+              172.0294189453125,
+              -34.10270799317486
+            ],
+            [
+              172.0294189453125,
+              -38.97222194853654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              173.73779296875,
+              -41.62365539068639
+            ],
+            [
+              178.08837890625,
+              -41.62365539068639
+            ],
+            [
+              178.08837890625,
+              -38.97222194853654
+            ],
+            [
+              173.73779296875,
+              -38.97222194853654
+            ],
+            [
+              173.73779296875,
+              -41.62365539068639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper South Island",
+        "Pack Slug": "upper-south-island-new-zealand",
+        "Pack Size": "20 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              171.3482666015625,
+              -41.996242821785806
+            ],
+            [
+              174.4244384765625,
+              -41.996242821785806
+            ],
+            [
+              174.4244384765625,
+              -40.47620304302561
+            ],
+            [
+              171.3482666015625,
+              -40.47620304302561
+            ],
+            [
+              171.3482666015625,
+              -41.996242821785806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Canterbury",
+        "Pack Slug": "canterbury-new-zealand",
+        "Pack Size": "55 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              168.1787109375,
+              -45.47554027158591
+            ],
+            [
+              174.22119140625,
+              -45.47554027158591
+            ],
+            [
+              174.22119140625,
+              -41.869560826994544
+            ],
+            [
+              168.1787109375,
+              -41.869560826994544
+            ],
+            [
+              168.1787109375,
+              -45.47554027158591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "West Coast",
+        "Pack Slug": "west-coast-new-zealand",
+        "Pack Size": "50 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              167.552490234375,
+              -44.73892994307366
+            ],
+            [
+              173.1005859375,
+              -44.73892994307366
+            ],
+            [
+              173.1005859375,
+              -40.78054143186031
+            ],
+            [
+              167.552490234375,
+              -40.78054143186031
+            ],
+            [
+              167.552490234375,
+              -44.73892994307366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Southland",
+        "Pack Slug": "southland-new-zealand",
+        "Pack Size": "30 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.09130859375,
+              -48.32703913063476
+            ],
+            [
+              169.442138671875,
+              -48.32703913063476
+            ],
+            [
+              169.442138671875,
+              -44.07969327425713
+            ],
+            [
+              166.09130859375,
+              -44.07969327425713
+            ],
+            [
+              166.09130859375,
+              -48.32703913063476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Otago",
+        "Pack Slug": "otago-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              167.574462890625,
+              -46.709735944071554
+            ],
+            [
+              171.46362304687497,
+              -46.709735944071554
+            ],
+            [
+              171.46362304687497,
+              -43.89789239125796
+            ],
+            [
+              167.574462890625,
+              -43.89789239125796
+            ],
+            [
+              167.574462890625,
+              -46.709735944071554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Canterbury",
+        "Pack Slug": "canterbury-new-zealand",
+        "Pack Size": "55 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Christchurch",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.50320434570312,
+              -43.602770207207946
+            ],
+            [
+              172.81631469726562,
+              -43.602770207207946
+            ],
+            [
+              172.81631469726562,
+              -43.447934055374034
+            ],
+            [
+              172.50320434570312,
+              -43.447934055374034
+            ],
+            [
+              172.50320434570312,
+              -43.602770207207946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Otago",
+        "Pack Slug": "otago-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Dunedin",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              170.45700073242188,
+              -45.92130384238662
+            ],
+            [
+              170.54489135742185,
+              -45.92130384238662
+            ],
+            [
+              170.54489135742185,
+              -45.850086551637
+            ],
+            [
+              170.45700073242188,
+              -45.850086551637
+            ],
+            [
+              170.45700073242188,
+              -45.92130384238662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Southland",
+        "Pack Slug": "southland-new-zealand",
+        "Pack Size": "30 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Invercargill",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              168.33303451538086,
+              -46.451341298254405
+            ],
+            [
+              168.40187072753906,
+              -46.451341298254405
+            ],
+            [
+              168.40187072753906,
+              -46.36718669475199
+            ],
+            [
+              168.33303451538086,
+              -46.36718669475199
+            ],
+            [
+              168.33303451538086,
+              -46.451341298254405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper South Island",
+        "Pack Slug": "upper-south-island-new-zealand",
+        "Pack Size": "20 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Nelson",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              173.2101058959961,
+              -41.33029115958092
+            ],
+            [
+              173.31121444702148,
+              -41.33029115958092
+            ],
+            [
+              173.31121444702148,
+              -41.257033049992245
+            ],
+            [
+              173.2101058959961,
+              -41.257033049992245
+            ],
+            [
+              173.2101058959961,
+              -41.33029115958092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Wellington",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.73360061645508,
+              -41.35039694276706
+            ],
+            [
+              174.84209060668945,
+              -41.35039694276706
+            ],
+            [
+              174.84209060668945,
+              -41.26258187665607
+            ],
+            [
+              174.73360061645508,
+              -41.26258187665607
+            ],
+            [
+              174.73360061645508,
+              -41.35039694276706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Palmerson North",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              175.56821823120117,
+              -40.38800462501301
+            ],
+            [
+              175.66743850708008,
+              -40.38800462501301
+            ],
+            [
+              175.66743850708008,
+              -40.31199603742692
+            ],
+            [
+              175.56821823120117,
+              -40.31199603742692
+            ],
+            [
+              175.56821823120117,
+              -40.38800462501301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Whanganui",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.9931526184082,
+              -39.951990519412355
+            ],
+            [
+              175.07795333862305,
+              -39.951990519412355
+            ],
+            [
+              175.07795333862305,
+              -39.9069710265522
+            ],
+            [
+              174.9931526184082,
+              -39.9069710265522
+            ],
+            [
+              174.9931526184082,
+              -39.951990519412355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "New Plymouth",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.02172088623047,
+              -39.087569272964714
+            ],
+            [
+              174.11579132080078,
+              -39.087569272964714
+            ],
+            [
+              174.11579132080078,
+              -39.03945298873316
+            ],
+            [
+              174.02172088623047,
+              -39.03945298873316
+            ],
+            [
+              174.02172088623047,
+              -39.087569272964714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Napier",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.8737030029297,
+              -39.51437107179445
+            ],
+            [
+              176.92657470703125,
+              -39.51437107179445
+            ],
+            [
+              176.92657470703125,
+              -39.4632339983513
+            ],
+            [
+              176.8737030029297,
+              -39.4632339983513
+            ],
+            [
+              176.8737030029297,
+              -39.51437107179445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Lower North Island",
+        "Pack Slug": "lower-north-island-new-zealand",
+        "Pack Size": "35 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Hastings",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.8091583251953,
+              -39.66042071889421
+            ],
+            [
+              176.87335968017578,
+              -39.66042071889421
+            ],
+            [
+              176.87335968017578,
+              -39.616003416909464
+            ],
+            [
+              176.8091583251953,
+              -39.616003416909464
+            ],
+            [
+              176.8091583251953,
+              -39.66042071889421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Gisborne",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              177.98212051391602,
+              -38.67961365359826
+            ],
+            [
+              178.06091308593747,
+              -38.67961365359826
+            ],
+            [
+              178.06091308593747,
+              -38.63792505130362
+            ],
+            [
+              177.98212051391602,
+              -38.63792505130362
+            ],
+            [
+              177.98212051391602,
+              -38.67961365359826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Rotorua",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.1898040771484,
+              -38.169114135560854
+            ],
+            [
+              176.2708282470703,
+              -38.169114135560854
+            ],
+            [
+              176.2708282470703,
+              -38.10241416177554
+            ],
+            [
+              176.1898040771484,
+              -38.10241416177554
+            ],
+            [
+              176.1898040771484,
+              -38.169114135560854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Tauranga",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.11221313476562,
+              -37.73379707124428
+            ],
+            [
+              176.24542236328125,
+              -37.73379707124428
+            ],
+            [
+              176.24542236328125,
+              -37.62674047813385
+            ],
+            [
+              176.11221313476562,
+              -37.62674047813385
+            ],
+            [
+              176.11221313476562,
+              -37.73379707124428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Hamilton",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              175.1982879638672,
+              -37.83473402375476
+            ],
+            [
+              175.34866333007812,
+              -37.83473402375476
+            ],
+            [
+              175.34866333007812,
+              -37.71614609310725
+            ],
+            [
+              175.1982879638672,
+              -37.71614609310725
+            ],
+            [
+              175.1982879638672,
+              -37.83473402375476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Pukekohe",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.88080024719238,
+              -37.22281069724851
+            ],
+            [
+              174.92483139038086,
+              -37.22281069724851
+            ],
+            [
+              174.92483139038086,
+              -37.18302281055255
+            ],
+            [
+              174.88080024719238,
+              -37.18302281055255
+            ],
+            [
+              174.88080024719238,
+              -37.22281069724851
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Auckland",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.6723175048828,
+              -36.9364464540241
+            ],
+            [
+              174.8525619506836,
+              -36.9364464540241
+            ],
+            [
+              174.8525619506836,
+              -36.774917496995094
+            ],
+            [
+              174.6723175048828,
+              -36.774917496995094
+            ],
+            [
+              174.6723175048828,
+              -36.9364464540241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Pack Name": "Upper North Island",
+        "Pack Slug": "upper-north-island-new-zealand",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Whangarei",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.29964065551758,
+              -35.74316846139925
+            ],
+            [
+              174.34873580932617,
+              -35.74316846139925
+            ],
+            [
+              174.34873580932617,
+              -35.7151586353778
+            ],
+            [
+              174.29964065551758,
+              -35.7151586353778
+            ],
+            [
+              174.29964065551758,
+              -35.74316846139925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Tasmania",
+        "Pack Slug": "tasmania-australia",
+        "Pack Size": "30 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.67919921874997,
+              -43.91372326852401
+            ],
+            [
+              148.60107421875,
+              -43.91372326852401
+            ],
+            [
+              148.60107421875,
+              -39.104488809440475
+            ],
+            [
+              143.67919921874997,
+              -39.104488809440475
+            ],
+            [
+              143.67919921874997,
+              -43.91372326852401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Tasmania",
+        "Pack Slug": "tasmania-australia",
+        "Pack Size": "30 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Hobart",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              147.28837966918945,
+              -42.8910580558156
+            ],
+            [
+              147.38245010375977,
+              -42.8910580558156
+            ],
+            [
+              147.38245010375977,
+              -42.851428551987325
+            ],
+            [
+              147.28837966918945,
+              -42.851428551987325
+            ],
+            [
+              147.28837966918945,
+              -42.8910580558156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Tasmania",
+        "Pack Slug": "tasmania-australia",
+        "Pack Size": "30 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Devonport",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.3199520111084,
+              -41.20009810817829
+            ],
+            [
+              146.3803768157959,
+              -41.20009810817829
+            ],
+            [
+              146.3803768157959,
+              -41.157590547169676
+            ],
+            [
+              146.3199520111084,
+              -41.157590547169676
+            ],
+            [
+              146.3199520111084,
+              -41.20009810817829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Victoria",
+        "Pack Slug": "victoria-australia",
+        "Pack Size": "90 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.921630859375,
+              -39.283293868938486
+            ],
+            [
+              150.029296875,
+              -39.283293868938486
+            ],
+            [
+              150.029296875,
+              -33.99802726234876
+            ],
+            [
+              140.921630859375,
+              -33.99802726234876
+            ],
+            [
+              140.921630859375,
+              -39.283293868938486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Victoria",
+        "Pack Slug": "victoria-australia",
+        "Pack Size": "90 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Melbourne",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.62265014648438,
+              -38.006984128391146
+            ],
+            [
+              145.29006958007812,
+              -38.006984128391146
+            ],
+            [
+              145.29006958007812,
+              -37.61749485208656
+            ],
+            [
+              144.62265014648438,
+              -37.61749485208656
+            ],
+            [
+              144.62265014648438,
+              -38.006984128391146
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "New South Wales",
+        "Pack Slug": "new-south-wales-australia",
+        "Pack Size": "105 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.943603515625,
+              -37.553287645957646
+            ],
+            [
+              153.687744140625,
+              -37.553287645957646
+            ],
+            [
+              153.687744140625,
+              -28.110748760633534
+            ],
+            [
+              140.943603515625,
+              -28.110748760633534
+            ],
+            [
+              140.943603515625,
+              -37.553287645957646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "New South Wales",
+        "Pack Slug": "new-south-wales-australia",
+        "Pack Size": "105 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Canberra",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              149.08721923828125,
+              -35.345095280667984
+            ],
+            [
+              149.1610336303711,
+              -35.345095280667984
+            ],
+            [
+              149.1610336303711,
+              -35.24141318347164
+            ],
+            [
+              149.08721923828125,
+              -35.24141318347164
+            ],
+            [
+              149.08721923828125,
+              -35.345095280667984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "New South Wales",
+        "Pack Slug": "new-south-wales-australia",
+        "Pack Size": "105 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Sydney",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.1227798461914,
+              -33.92769356430452
+            ],
+            [
+              151.28723144531247,
+              -33.92769356430452
+            ],
+            [
+              151.28723144531247,
+              -33.81309907738366
+            ],
+            [
+              151.1227798461914,
+              -33.81309907738366
+            ],
+            [
+              151.1227798461914,
+              -33.92769356430452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Queensland",
+        "Pack Slug": "queensland-australia",
+        "Pack Size": "90 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.92236328125,
+              -28.902397228558485
+            ],
+            [
+              153.69873046875,
+              -28.902397228558485
+            ],
+            [
+              153.69873046875,
+              -9.81732918706777
+            ],
+            [
+              137.92236328125,
+              -9.81732918706777
+            ],
+            [
+              137.92236328125,
+              -28.902397228558485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Queensland",
+        "Pack Slug": "queensland-australia",
+        "Pack Size": "90 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Brisbane",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              152.86102294921875,
+              -27.664068965384516
+            ],
+            [
+              153.17413330078122,
+              -27.664068965384516
+            ],
+            [
+              153.17413330078122,
+              -27.31077350219448
+            ],
+            [
+              152.86102294921875,
+              -27.31077350219448
+            ],
+            [
+              152.86102294921875,
+              -27.664068965384516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Queensland",
+        "Pack Slug": "queensland-australia",
+        "Pack Size": "90 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Bundaberg",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              152.2950553894043,
+              -24.908391274397893
+            ],
+            [
+              152.4016571044922,
+              -24.908391274397893
+            ],
+            [
+              152.4016571044922,
+              -24.85295182561483
+            ],
+            [
+              152.2950553894043,
+              -24.85295182561483
+            ],
+            [
+              152.2950553894043,
+              -24.908391274397893
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Queensland",
+        "Pack Slug": "queensland-australia",
+        "Pack Size": "90 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Townsville",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.77082061767578,
+              -19.275012667421393
+            ],
+            [
+              146.84394836425778,
+              -19.275012667421393
+            ],
+            [
+              146.84394836425778,
+              -19.235632486172594
+            ],
+            [
+              146.77082061767578,
+              -19.235632486172594
+            ],
+            [
+              146.77082061767578,
+              -19.275012667421393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "South Australia",
+        "Pack Slug": "south-australia-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.935546875,
+              -38.082689544838004
+            ],
+            [
+              140.99853515625,
+              -38.082689544838004
+            ],
+            [
+              140.99853515625,
+              -25.898761936567023
+            ],
+            [
+              128.935546875,
+              -25.898761936567023
+            ],
+            [
+              128.935546875,
+              -38.082689544838004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "South Australia",
+        "Pack Slug": "south-australia-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Adelaide",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.4716796875,
+              -35.000191114817824
+            ],
+            [
+              138.7017059326172,
+              -35.000191114817824
+            ],
+            [
+              138.7017059326172,
+              -34.85438288509789
+            ],
+            [
+              138.4716796875,
+              -34.85438288509789
+            ],
+            [
+              138.4716796875,
+              -35.000191114817824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "South Australia",
+        "Pack Slug": "south-australia-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Whyalla",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.50213623046875,
+              -33.04507613472954
+            ],
+            [
+              137.59843826293945,
+              -33.04507613472954
+            ],
+            [
+              137.59843826293945,
+              -33.01010301488817
+            ],
+            [
+              137.50213623046875,
+              -33.01010301488817
+            ],
+            [
+              137.50213623046875,
+              -33.04507613472954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "South Australia",
+        "Pack Slug": "south-australia-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Port Lincoln",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.8360767364502,
+              -34.7375216759188
+            ],
+            [
+              135.88208198547363,
+              -34.7375216759188
+            ],
+            [
+              135.88208198547363,
+              -34.71212583170753
+            ],
+            [
+              135.8360767364502,
+              -34.71212583170753
+            ],
+            [
+              135.8360767364502,
+              -34.7375216759188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Northern Territory",
+        "Pack Slug": "northern-territory-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.9794921875,
+              -26.017297563851745
+            ],
+            [
+              137.98828125,
+              -26.017297563851745
+            ],
+            [
+              137.98828125,
+              -10.660607953624762
+            ],
+            [
+              128.9794921875,
+              -10.660607953624762
+            ],
+            [
+              128.9794921875,
+              -26.017297563851745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Northern Territory",
+        "Pack Slug": "northern-territory-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Alice Springs",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.84849548339844,
+              -23.72296872098585
+            ],
+            [
+              133.90840530395508,
+              -23.72296872098585
+            ],
+            [
+              133.90840530395508,
+              -23.664021824353732
+            ],
+            [
+              133.84849548339844,
+              -23.664021824353732
+            ],
+            [
+              133.84849548339844,
+              -23.72296872098585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Northern Territory",
+        "Pack Slug": "northern-territory-australia",
+        "Pack Size": "45 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Darwin",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.81506729125977,
+              -12.472782814792739
+            ],
+            [
+              130.8536911010742,
+              -12.472782814792739
+            ],
+            [
+              130.8536911010742,
+              -12.425428682037246
+            ],
+            [
+              130.81506729125977,
+              -12.425428682037246
+            ],
+            [
+              130.81506729125977,
+              -12.472782814792739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Western Australia",
+        "Pack Slug": "western-australia-australia",
+        "Pack Size": "85 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Base",
+        "Map Style": "Normal",
+        "Zoom Levels": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.763671875,
+              -35.281500657891186
+            ],
+            [
+              129.08935546875,
+              -35.281500657891186
+            ],
+            [
+              129.08935546875,
+              -13.21855594917547
+            ],
+            [
+              112.763671875,
+              -13.21855594917547
+            ],
+            [
+              112.763671875,
+              -35.281500657891186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Western Australia",
+        "Pack Slug": "western-australia-australia",
+        "Pack Size": "85 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Perth",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.74508666992188,
+              -32.02961694083616
+            ],
+            [
+              115.99159240722656,
+              -32.02961694083616
+            ],
+            [
+              115.99159240722656,
+              -31.885720467145187
+            ],
+            [
+              115.74508666992188,
+              -31.885720467145187
+            ],
+            [
+              115.74508666992188,
+              -32.02961694083616
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Western Australia",
+        "Pack Slug": "western-australia-australia",
+        "Pack Size": "85 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Kalgoorlie",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.43033981323241,
+              -30.795672539731584
+            ],
+            [
+              121.50226593017578,
+              -30.795672539731584
+            ],
+            [
+              121.50226593017578,
+              -30.71689833421337
+            ],
+            [
+              121.43033981323241,
+              -30.71689833421337
+            ],
+            [
+              121.43033981323241,
+              -30.795672539731584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Pack Name": "Western Australia",
+        "Pack Slug": "western-australia-australia",
+        "Pack Size": "85 MB",
+        "Pack Version": "1.0",
+        "Map Name": "Karratha",
+        "Map Style": "Normal",
+        "Zoom Levels": "12-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.78964614868163,
+              -20.75836113955806
+            ],
+            [
+              116.87152862548828,
+              -20.75836113955806
+            ],
+            [
+              116.87152862548828,
+              -20.719831980036833
+            ],
+            [
+              116.78964614868163,
+              -20.719831980036833
+            ],
+            [
+              116.78964614868163,
+              -20.75836113955806
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
